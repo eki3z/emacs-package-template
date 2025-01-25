@@ -35,7 +35,8 @@ Clone and add to `load-path`, require the package.
 
 - Melpa
 
-This package is available on [MELPA]. Install with `M-x package-install` `RET` `package-name` within Emacs.
+Not available in melpa yet.
+~~This package is available on [MELPA]. Install with `M-x package-install` `RET` `package-name` within Emacs.~~
 
 ## Usage
 
